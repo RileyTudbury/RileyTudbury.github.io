@@ -1,0 +1,15 @@
+html{
+  scroll-behavior: smooth;
+}
+#skills{
+  height: 400px;
+}
+#portfolio{
+  height: 400px;
+}
+#about-me{
+  height: 400px;
+}
+#contact{
+  height: 400px;
+}
