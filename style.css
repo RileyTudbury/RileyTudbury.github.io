@@ -2,7 +2,9 @@ html{
   scroll-behavior: smooth;
 }
 #skills{
-  height: 400px;
+  height: 40vh;
+  background-image: url(https://cdn.pixabay.com/photo/2016/11/29/11/39/computer-1869236_1280.jpg);
+  background-size: cover;
 }
 #portfolio{
   height: 400px;
@@ -12,4 +14,11 @@ html{
 }
 #contact{
   height: 400px;
+}
+
+.text-light{
+text-shadow: 2px 2px 3px black;
+}
+.nav-link{
+  mix-blend-mode: screen;
 }
