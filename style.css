@@ -7,18 +7,37 @@ html{
   background-size: cover;
 }
 #portfolio{
-  height: 400px;
+  height: 30vh;
 }
-#about-me{
-  height: 400px;
-}
+
 #contact{
-  height: 400px;
+  height: 40vh;
 }
 
 .text-light{
-text-shadow: 2px 2px 3px black;
+text-shadow: 2px 2px 4px black;
+font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 }
 .nav-link{
   mix-blend-mode: screen;
+  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+}
+
+.headshot{
+  height: 40vh;
+  width: auto;
+  border-radius: 50%;
+}
+
+.btn{
+  border-radius: 300px;
+}
+
+.btn-lg{
+  border: 1px solid white;
+}
+
+.logo{
+  height: 15vh;
+  width: auto;
 }
