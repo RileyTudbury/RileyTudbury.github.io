@@ -68,3 +68,8 @@ text-shadow: 2px 2px 4px black;
 .col-md-3{
   justify-content: center;
 }
+
+.vertical-align{
+  display: flex;
+  align-items: center;
+}
