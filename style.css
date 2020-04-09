@@ -4,6 +4,7 @@ html{
   text-transform: uppercase;
   font-weight: 700;
 }
+
 #skills{
   height: 80vh;
   background-image: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(126,126,126,0.527345972568715) 50%, rgba(255,255,255,1) 100%), url(https://cdn.pixabay.com/photo/2016/11/29/11/39/computer-1869236_1280.jpg);
@@ -32,14 +33,10 @@ html{
   justify-content: space-between;
 }
 
-.card-body{
-  height: 37vh
-}
-
 .text-light{
 text-shadow: 2px 2px 4px black;
-
 }
+
 .nav-link{
   mix-blend-mode: screen;
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
