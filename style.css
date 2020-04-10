@@ -12,13 +12,13 @@ html{
 }
 
 #about-me{
-  background: rgb(0,0,0);
-  background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 0%, rgba(255,255,255,1) 25%);
+background: rgb(0,0,0);
+background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 0%, rgba(154,154,154,1) 60%);
 }
 
 #arsenal{
   background: rgb(0,0,0);
-  background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(126,126,126,1) 50%, rgba(255,255,255,1) 100%);
+  background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(126,126,126,1) 50%, rgba(154,154,154,1) 100%);
 }
 
 #contact{
@@ -40,7 +40,7 @@ html{
 }
 
 .text-light{
-text-shadow: 2px 2px 4px black;
+text-shadow: 0px 0px 5px black;
 }
 
 .nav-link{
